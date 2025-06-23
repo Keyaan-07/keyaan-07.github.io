@@ -1,0 +1,20 @@
+body {
+	background-color: cornflowerblue;
+	text-align: center;
+	padding-top: 50px;
+	font-family:arial;
+}
+
+
+.light {
+	color: #1f1f1f;
+}
+
+a {color: #34495e;}
+
+a:hover {color:2c3e50;}
+
+
+.reference {
+font-size:14px;
+}
